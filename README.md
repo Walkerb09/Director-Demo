@@ -9,7 +9,7 @@ of every decision so the next shot carries the story on.
 This repository is the source of the **public 24 GB demo**. It runs on an ordinary 24 GB GPU and installs itself on a
 rented Vast.ai machine.
 
-**▶ Try it:** [rent the Director Studio template on Vast.ai](https://cloud.vast.ai?ref_id=711729&template_id=05188193265b52bc7465c1b122e80bfb)
+**▶ Try it:** [rent the Director Studio template on Vast.ai](https://cloud.vast.ai?ref_id=711729&template_id=54630e740d4e45cbda43851316ece730)
 · the install bundle lives on [Hugging Face](https://huggingface.co/Walkerb09/Director-demo) (SHA-256 verified)
 
 ---
