@@ -1,0 +1,12 @@
+{
+  "files": {
+    "README.md": "8f213ed6813aae2224d0751d9c6c8e6ae1a84779b19cb39d867bc3afc49f1239",
+    "profiled_observer_v0722.py": "9d7bb02db23beaa867ec5de5eb096da58e36e11545a7600e930c7c0d924f106f",
+    "profiles/hallway-v1.json": "e65cd00d787ae9d9f71ffb8bb6ddb8c209fc9443c1f8cc6ef485203f01324c1d",
+    "profiles/scene-profile-template.json": "73c5c8346f12d10e885751015116ed626bc0a3300bce3b6604371a2f8e1884ab",
+    "run_v0722.sh": "995ef04257665db31e8fa8a3279405628d541fd9666c008b5605b94e86f366cd",
+    "test_fixtures/observer_helpers.py": "2915b49d13a6c02b24cccd65ba3bda7dc21a4ad52b058346e4fb5eda7277d80f",
+    "verify_package.py": "5d65c028bf2e97bb6735fbbf137db894157d3391ce93e8d97c9ae8473bd44ed6"
+  },
+  "version": "director-profiled-rolebinary-grammar-shadow-0.7.2.2"
+}

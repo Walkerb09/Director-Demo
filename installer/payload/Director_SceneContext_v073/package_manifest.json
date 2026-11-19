@@ -1,0 +1,9 @@
+{
+  "files": {
+    "README.md": "1102619d49e2e03fe109a53d4e92ca3dce0649861bc9fccf5a2ad0d8838e622b",
+    "run_v073.sh": "6fe851d5de2d71eacaab9f280c5471a65e0c4f64208777c67dddb3c7a1a8f151",
+    "scene_context_v073.py": "163929d42d72f28175775ecb6ee7cdf6c19d06aa645af6656838140ebea7d75c",
+    "verify_package.py": "c9a572f7060318883b4759e896bb566f945c1b03ee70b1d9210800f0fd59db63"
+  },
+  "schema": "director-v073-files-v1"
+}

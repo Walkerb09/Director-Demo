@@ -1,0 +1,10 @@
+{
+  "schema": "director-scene-profile-v1",
+  "project_id": "my-scene",
+  "video_name_prefix": "My_H3_Shot_",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "cast": [
+    {"id": "ACTOR_A", "description": "adult person wearing a dark blazer and short brown hair"},
+    {"id": "ACTOR_B", "description": "adult person wearing a light jacket with long dark hair"}
+  ]
+}

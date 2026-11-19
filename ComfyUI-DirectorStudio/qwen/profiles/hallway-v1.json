@@ -1,0 +1,16 @@
+{
+  "schema": "director-scene-profile-v1",
+  "project_id": "hallway-v1",
+  "video_name_prefix": "Director_H3_TEST_Shadow_UNAPPROVED_",
+  "model_id": "Qwen/Qwen3-VL-8B-Instruct",
+  "cast": [
+    {
+      "id": "PRESENTER",
+      "description": "the first person shown in the reference images"
+    },
+    {
+      "id": "GRANDPA",
+      "description": "the second person shown in the reference images"
+    }
+  ]
+}

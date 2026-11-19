@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and local settings: never commit
+.env
+.env.*
+*.token
+token
+key.txt
+vast.env
+secrets.*
+
+# Large binaries: shipped in the install bundle, not in git
+*.onnx
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.gguf
+*.zip
+
+# Generated media, projects and logs
+*.mp4
+*.mov
+*.webm
+projects/
+renders/
+output/
+logs/
+*.log

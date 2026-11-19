@@ -1,0 +1,9 @@
+{
+  "files": {
+    "README.md": "ea21cd58654bef51425986d2c374651feb7a846a9dde1aa25275f4ff87c3d565",
+    "director_postshot_v074.py": "b451b538048f1be801fe74a571b07670ad3a4a3422e7db0f15e743a3445a2151",
+    "run_v074.sh": "3430666570e6ecffaf29d081d390f7b52ac225181236768dd3db01e51aabf7ec",
+    "verify_package.py": "8c4dfb1600efd332abeb4da9c683ab1129901183216dfe2316e29e9ccaf4e6cb"
+  },
+  "schema": "director-v074-files-v1"
+}

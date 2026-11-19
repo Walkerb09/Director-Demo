@@ -1,0 +1,10 @@
+{
+  "files": {
+    "README.md": "a137f313259aa3126dd41037ac22f75abdaa5cf9695159ba06ec2a683ad972a9",
+    "director_idle_dispatcher_v075.py": "3241bd196826c9128f3845de90da4de96367a11f53b7ee1a319afd9ddc97a750",
+    "profiles/hallway-v1.json": "e65cd00d787ae9d9f71ffb8bb6ddb8c209fc9443c1f8cc6ef485203f01324c1d",
+    "run_v075.sh": "6193f325db462739321a51bc16eec82f1002b65407127ebe3700249a5b5d71d9",
+    "verify_package.py": "af906068de912e79e5ba2f61d39f9f530b6a8a0a0a1cd7e180924a4a5501e669"
+  },
+  "version": "director-idle-postshot-dispatcher-0.7.5"
+}
